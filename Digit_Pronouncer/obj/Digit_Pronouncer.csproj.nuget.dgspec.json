@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Digit_Pronouncer.csproj": {}
+    "C:\\Users\\DELL\\source\\repos\\new\\Digit_Pronouncer\\Digit_Pronouncer\\Digit_Pronouncer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Digit_Pronouncer.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\new\\Digit_Pronouncer\\Digit_Pronouncer\\Digit_Pronouncer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Digit_Pronouncer.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\new\\Digit_Pronouncer\\Digit_Pronouncer\\Digit_Pronouncer.csproj",
         "projectName": "Digit_Pronouncer",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Digit_Pronouncer.csproj",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\new\\Digit_Pronouncer\\Digit_Pronouncer\\Digit_Pronouncer.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\new\\Digit_Pronouncer\\Digit_Pronouncer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -39,15 +39,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
@@ -58,6 +50,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }

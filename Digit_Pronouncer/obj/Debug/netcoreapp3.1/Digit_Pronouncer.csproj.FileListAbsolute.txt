@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\new\Digit_Pronouncer\Digit_Pronouncer\bin\Debug\netcoreapp3.1\Digit_Pronouncer.exe
+C:\Users\DELL\source\repos\new\Digit_Pronouncer\Digit_Pronouncer\bin\Debug\netcoreapp3.1\Digit_Pronouncer.deps.json
+C:\Users\DELL\source\repos\new\Digit_Pronouncer\Digit_Pronouncer\bin\Debug\netcoreapp3.1\Digit_Pronouncer.runtimeconfig.json
+C:\Users\DELL\source\repos\new\Digit_Pronouncer\Digit_Pronouncer\bin\Debug\netcoreapp3.1\Digit_Pronouncer.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\new\Digit_Pronouncer\Digit_Pronouncer\bin\Debug\netcoreapp3.1\Digit_Pronouncer.dll
+C:\Users\DELL\source\repos\new\Digit_Pronouncer\Digit_Pronouncer\bin\Debug\netcoreapp3.1\Digit_Pronouncer.pdb
+C:\Users\DELL\source\repos\new\Digit_Pronouncer\Digit_Pronouncer\obj\Debug\netcoreapp3.1\Digit_Pronouncer.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\new\Digit_Pronouncer\Digit_Pronouncer\obj\Debug\netcoreapp3.1\Digit_Pronouncer.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\new\Digit_Pronouncer\Digit_Pronouncer\obj\Debug\netcoreapp3.1\Digit_Pronouncer.AssemblyInfo.cs
+C:\Users\DELL\source\repos\new\Digit_Pronouncer\Digit_Pronouncer\obj\Debug\netcoreapp3.1\Digit_Pronouncer.dll
+C:\Users\DELL\source\repos\new\Digit_Pronouncer\Digit_Pronouncer\obj\Debug\netcoreapp3.1\Digit_Pronouncer.pdb

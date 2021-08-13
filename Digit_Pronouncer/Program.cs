@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ConsoleApp1
+namespace Digit_Pronouncer
 {
     class Program
     {
@@ -40,7 +40,7 @@ namespace ConsoleApp1
         }
         static void Main(string[] args)
         {
-            Start:
+        Start:
             Console.WriteLine("Please enter an integer between 0 and 99 crore");
             var value = Console.ReadLine();
             Program program = new Program();
@@ -57,7 +57,7 @@ namespace ConsoleApp1
         private string PronounceTwoDigits(string number)
         {
             var integerValue = Convert.ToInt32(number);
-            if(integerValue >= 11 && integerValue <= 19 || integerValue % 10 == 0)
+            if (integerValue >= 11 && integerValue <= 19 || integerValue % 10 == 0)
             {
                 return integerToString[Convert.ToInt32(number)];
             }
@@ -90,7 +90,7 @@ namespace ConsoleApp1
         private string PronounceFiveDigits(string number)
         {
             var integerValue = Convert.ToInt32(number);
-            var firstHalf = PronounceTwoDigits(number.Substring(0,2)) + " Thousand" + " ";
+            var firstHalf = PronounceTwoDigits(number.Substring(0, 2)) + " Thousand" + " ";
             if (integerValue % 1000 == 0)
                 return firstHalf;
             else
