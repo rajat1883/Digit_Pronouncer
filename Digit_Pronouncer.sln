@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Digit_Pronouncer", "ConsoleApp1\Digit_Pronouncer.csproj", "{FE4FBBAB-1B7C-4C8A-8C0E-5FAAB1F15825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE4FBBAB-1B7C-4C8A-8C0E-5FAAB1F15825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4FBBAB-1B7C-4C8A-8C0E-5FAAB1F15825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4FBBAB-1B7C-4C8A-8C0E-5FAAB1F15825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4FBBAB-1B7C-4C8A-8C0E-5FAAB1F15825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE9204F2-00F6-4400-9DDF-00380FD9C003}
+	EndGlobalSection
+EndGlobal
